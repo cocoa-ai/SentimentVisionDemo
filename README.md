@@ -36,9 +36,9 @@ Build the project and run it on a simulator or a device with iOS 11.
 ## Conversion
 
 ```sh
-$ cd Convert
-$ ./download.sh
-$ python convert.py
+cd Convert
+./download.sh
+python convert.py
 ```
 
 ## Author
