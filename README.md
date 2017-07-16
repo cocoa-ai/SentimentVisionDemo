@@ -11,7 +11,7 @@ likely sentiment of the given image.
 
 This demo is based on the "Fine-tuning CNNs for Visual Sentiment Prediction"
 neural network classifier, which was converted from original [Caffe model](https://github.com/imatge-upc/sentiment-2017-imavis)
-to [CoreML model](https://drive.google.com/open?id=0B1ghKa_MYL6meTZRT3U5b0o5amc)
+to [CoreML model](https://drive.google.com/open?id=0B1ghKa_MYL6mZ0dITW5uZlgyNTg)
 using [coremltools](https://pypi.python.org/pypi/coremltools) python package.
 
 ## Requirements
@@ -28,7 +28,7 @@ pod install
 open StylesVision.xcworkspace/
 ```
 
-Download the [CoreMl model](https://drive.google.com/open?id=0B1ghKa_MYL6meTZRT3U5b0o5amc)
+Download the [CoreMl model](https://drive.google.com/open?id=0B1ghKa_MYL6mZ0dITW5uZlgyNTg)
 and drag the file into your project.
 
 Build the project and run it on a simulator or a device with iOS 11.
