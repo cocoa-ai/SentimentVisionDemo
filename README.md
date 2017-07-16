@@ -4,7 +4,7 @@ A Demo application using `Vision` and `CoreML` frameworks to detect the most
 likely sentiment of the given image.
 
 <div align="center">
-<img src="https://github.com/cocoa-ml/SentimentVisionDemo/blob/master/Screenshot.png" alt="StylesVisionDemo" width="300" height="416" />
+<img src="https://github.com/cocoa-ai/SentimentVisionDemo/blob/master/Screenshot.png" alt="SentimentVisionDemo" width="300" height="416" />
 </div>
 
 ## Model
