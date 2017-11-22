@@ -1,4 +1,4 @@
-# Styles Vision Demo
+# Sentiment Vision Demo
 
 A Demo application using `Vision` and `CoreML` frameworks to detect the most
 likely sentiment of the given image.
@@ -25,7 +25,7 @@ using [coremltools](https://pypi.python.org/pypi/coremltools) python package.
 git clone https://github.com/cocoa-ml/SentimentVisionDemo.git
 cd SentimentVisionDemo
 pod install
-open StylesVision.xcworkspace/
+open SentimentVision.xcworkspace/
 ```
 
 Download the [CoreMl model](https://drive.google.com/open?id=0B1ghKa_MYL6mZ0dITW5uZlgyNTg)
