@@ -22,7 +22,7 @@ using [coremltools](https://pypi.python.org/pypi/coremltools) python package.
 ## Installation
 
 ```sh
-git clone https://github.com/cocoa-ml/SentimentVisionDemo.git
+git clone https://github.com/cocoa-ai/SentimentVisionDemo.git
 cd SentimentVisionDemo
 pod install
 open SentimentVision.xcworkspace/
